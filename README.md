@@ -1,4 +1,4 @@
-Introducing Firefliis: Where content creators find balance
+Introducing Firefliis: Where content creators find balance in there diet
 
 Firefliis is an free & open source heath tracker where you can track you heartbeat, calories, etc
 
